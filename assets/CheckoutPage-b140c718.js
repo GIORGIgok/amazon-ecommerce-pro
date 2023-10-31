@@ -1,0 +1,1 @@
+import{j as t}from"./index-2666786e.js";import{C as e,a as o}from"./CheckoutSection-8bf58c94.js";import"./am-logo-transparent-821c7e26.js";const m=()=>t.jsxs(t.Fragment,{children:[t.jsx(e,{}),t.jsx(o,{})]});export{m as default};
